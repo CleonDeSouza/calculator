@@ -2,7 +2,7 @@
     align-content: center;
     align-self: center;
     font-family: Arial, sans-serif;
-    background-color: rgb(57, 57, 57);
+    background-color: #31473A;
     border-radius: 20px;
     max-width: 500px;
     overflow: hidden;
@@ -13,9 +13,9 @@
     height: 20%;
     padding: 20px;
     border: none;
-    background-color: rgb(77, 77, 77);
+    background-color: #395545;
     color:aliceblue;
-    font-size: 2rem;;
+    font-size: 2.5rem;;
 }
 
 #keys{
@@ -32,12 +32,12 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(107, 107, 107);
+    background-color:rgb(74, 133, 116);
 }
 
 button{
-    width: 100px ;
-    height: 100px;
+    width: 80px ;
+    height: 80px;
     font-size: 3rem;
     font-weight: bold;
     border-radius: 25px;
@@ -46,46 +46,31 @@ button{
 }
 
 .btn{
-    background-color: rgb(119, 119, 119);
+    background-color: #629176;
     color: white;
 }
 
 .btn:hover{
-    background-color: rgb(132, 132, 132);
+    background-color: #426250;
     color: white;
 }
 
 .btn:active{
-    background-color: rgb(146, 146, 146);
+    background-color: #23342a;
     color: white;
 }
 
 .main{
-    background-color: rgb(255, 140, 90);
+    background-color: #59816a;
     color: white;
 }
 
 .main:hover{
-    background-color: rgb(254, 158, 117);
+    background-color: #426250;
     color: white;
 }
 
 .main:active{
-    background-color: rgb(255, 185, 156);
-    color: white;
-}
-
-.sign{
-    background-color: rgb(90, 137, 255);
-    color: white;
-}
-
-.sign:hover{
-    background-color: rgb(117, 156, 255);
-    color: white;
-}
-
-.sign:active{
-    background-color: rgb(143, 174, 255);
+    background-color: #23342a;
     color: white;
 }
